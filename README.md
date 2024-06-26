@@ -1,4 +1,4 @@
-Hi, I am Ryan Cheah, a water resources engineer (specializing in computational hydraulics) from DHI Water & Environment.
+Hi, I am Ryan Cheah, a water resources engineer (specializing in computational hydraulics).
 
 My core skills include:
 -Building numeric models for various water resources applications (rainfall runoff, flood risk, hydropower and groundwater)
